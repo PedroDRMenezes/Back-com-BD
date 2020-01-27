@@ -1,0 +1,5 @@
+package com.pedroCorp.alunos.dao;
+
+public interface IUsuarioBD {
+
+}
